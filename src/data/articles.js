@@ -52,6 +52,24 @@ const articles = [
     date: '2 апреля 2026',
     tag: 'Git',
     image: 'https://i.pinimg.com/736x/21/be/8e/21be8e7cf8eb4ad37ab8d9b6d0756331.jpg'
+  },
+  {
+    id: 7,
+    title: 'TypeScript для начинающих',
+    excerpt: 'Основы TypeScript: типы, интерфейсы и преимущества в React-проектах.',
+    author: 'Елена Морозова',
+    date: '5 апреля 2026',
+    tag: 'TypeScript',
+    image: 'https://i.pinimg.com/736x/03/97/0f/03970fc72c5451ade2b7ac3b49260800.jpg'
+  },
+  {
+    id: 8,
+    title: 'React Router DOM',
+    excerpt: 'Настройка маршрутизации в React: создаём многостраничное приложение.',
+    author: 'Алексей Иванов',
+    date: '8 апреля 2026',
+    tag: 'Маршрутизация',
+    image: 'https://i.pinimg.com/736x/f0/73/b8/f073b8a51b6670d4a11fc78c16972626.jpg'
   }
 ];
 

@@ -33,3 +33,11 @@
 .link:hover {
   color: #fff;
 }
+
+.count {
+  color: #e0e7ff;
+  font-size: 0.9rem;
+  opacity: 0.8;
+  display: block;
+  margin-top: 0.25rem;
+}
