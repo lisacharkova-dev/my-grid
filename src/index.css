@@ -1,0 +1,13 @@
+/* Сброс стандартных отступов у всех элементов */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Стили для всего тела страницы */
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: #f5f5f5;
+  color: #222;
+}
